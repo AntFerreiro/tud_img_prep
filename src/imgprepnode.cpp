@@ -24,7 +24,7 @@ ImgPrepNode::ImgPrepNode()
       timeAvg_(0.0)
 {
   ros::NodeHandle params("~");
-  // Topic Parameters
+  // Topic Parameterss
 
   std::string camera_namespace, image;
 
